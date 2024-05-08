@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!++I'm+Om+Chunamari;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Om+Chunamari;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=omchunamari" alt="">
